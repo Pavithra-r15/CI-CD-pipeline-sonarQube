@@ -12,3 +12,5 @@
 
   => For testing this we need run "python -m http.server 8000"
   => In browser localhost:8000
+
+  => To be working with jenkins, sonarQube and Docker
