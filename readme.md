@@ -14,3 +14,5 @@
   => In browser localhost:8000
 
   => To be working with jenkins, sonarQube and Docker
+  => Successfully build taken from jenkins using webhooks and pipeline script.
+  => Next to try the multi stages build
